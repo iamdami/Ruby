@@ -1,0 +1,10 @@
+puts('Hello '+'world')
+# Hello world
+puts('Hello '*3)
+# Hello Hello Hello 
+puts('Hello'[0])
+# H
+puts('Hello'[1])
+# e
+puts('Hello'[2])
+# l
